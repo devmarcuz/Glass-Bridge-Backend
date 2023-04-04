@@ -4,7 +4,7 @@ This respository contains the backend code for the Glass Bridge, a game applicat
 
 ## Demo
 
-You can view a live demo of the Glass Bridge Backend at [https://swift-chat-app-api.onrender.com](https://swift-chat-app-api.onrender.com)
+You can view a live demo of the Glass Bridge Backend at [https://glass-bridge-api.onrender.com](https://glass-bridge-api.onrender.com)
 
 ## features
 
