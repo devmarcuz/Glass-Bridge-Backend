@@ -1,4 +1,4 @@
-# SWIFT Chat App Backend
+# Glass Bridge Backend
 
 This respository contains the backend code for the Glass Bridge, a game application built using Node.js, Express and MongoDB.
 
